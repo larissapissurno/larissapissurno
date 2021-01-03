@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working as Sênior Front-End Software Developer | Angular | Jest 
+- 🌱 I’m currently learning Node, Angular Universal, Software Architecture
+
 <!--
 **larissapissurno/larissapissurno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
