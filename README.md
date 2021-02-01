@@ -37,6 +37,9 @@ You can found at:
 
 ## My stats
 
-[![Larissa Pissurno's github stats](https://github-readme-stats.vercel.app/api?username=larissapissurno&show_icons=true&theme=default)](https://github.com/larissapissurno)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larissapissurno&show_icons=true&theme=default)
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=larissapissurno&show_icons=true&theme=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissapissurno&show_icons=true&layout=compact" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api?username=larissapissurno&show_icons=true&theme=default">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=larissapissurno&show_icons=true&theme=default" />
+</a>
