@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi there 👋, my name is Larissa
+ 
 
-- 🔭 I’m currently working as Sênior Front-End Software Developer | Angular | Jest 
+- 🔭 I’m currently working as Sênior Front-End Software Developer | TypeScript | Angular | Jest 
 - 🌱 I’m currently learning Node, Angular Universal, Software Architecture
 
 <!--
