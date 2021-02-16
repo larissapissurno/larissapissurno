@@ -4,7 +4,7 @@
 
 ### Hi there, I'm Larissa 👋
  
-_Software Engineer at [DBC Company](https://www.db1group.com/)_
+_Frontend Engineer at [DBC Company](https://www.db1group.com/)_
 
 You can found at:
 
@@ -12,7 +12,7 @@ You can found at:
 ![GitHub followers](https://img.shields.io/github/followers/larissapissurno?label=Follow&style=social)
 
 ## About me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-:woman_technologist: I'm currently working as a <code>Front-End Developer</code> at DBC Company remotely on a project for Sicredi bank.
+:woman_technologist: I'm currently working as a <code>Frontend Developer</code> at DBC Company remotely on a project for Sicredi bank.
 
 
 ## Languages and technologies I'm daily working with
