@@ -4,15 +4,19 @@
 
 ### Hi there, I'm Larissa 👋
  
-_Frontend Engineer at [DBC Company](https://www.db1group.com/)_
+_Frontend Engineer at [CI&T](https://ciandt.com/)_
 
 You can found at:
 
-[![Linkedin: ftathiago](https://img.shields.io/badge/-Larissa%20Pissurno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larissa-de-oliveira-pissurno-64783372/)](https://www.linkedin.com/in/larissa-de-oliveira-pissurno-64783372)
+[![Linkedin](https://img.shields.io/badge/-Larissa%20Pissurno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larissapissurno/)](https://www.linkedin.com/in/larissapissurno)
 ![GitHub followers](https://img.shields.io/github/followers/larissapissurno?label=Follow&style=social)
 
 ## About me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-:woman_technologist: I'm currently working as a <code>Frontend Developer</code> at DBC Company remotely on a project for Sicredi bank.
+:woman_technologist: I'm currently working remotely as a <code>Frontend Developer</code> at CI&T company.
+
+📍 Writting code for humans since 2011 (sometimes doing, sometime trying).<br/>
+
+🗒️ In the first 5 years of my carreer I worked as a Full-stack engineer, but in my last 4 wonderful years I've been focusing on the Front-end side mostly using Angular as framework (but I do like to venture into Back-end once in a while, mainly using NodeJs).
 
 
 ## Languages and technologies I'm daily working with
