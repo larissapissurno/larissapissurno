@@ -12,7 +12,7 @@ You can found at:
 ![GitHub followers](https://img.shields.io/github/followers/larissapissurno?label=Follow&style=social)
 
 ## About me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-:woman_technologist: Writting code for humans since 2011 (sometimes doing, sometime trying 😂).<br/>
+:woman_technologist: Writting code for humans since 2011.<br/>
 
 🗒️ In the first 5 years of my carreer I worked as a Full-stack engineer, but in my last 4 wonderful years I've been focusing on the Front-end side mostly using Angular as framework (but I do like to venture into Back-end once in a while, mainly using NodeJs).
 
