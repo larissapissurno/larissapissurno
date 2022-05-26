@@ -16,7 +16,7 @@ You can found at:
 
 🗒️ In the first 5 years of my carreer I worked as a Full-stack engineer, but in my last 4+ wonderful years I've been focusing on the Front-end side mostly using Angular as framework (but I do like to venture into Back-end once in a while, mainly using NodeJs).
 
-🏠 I'm currently working remotely as a <code>Frontend Developer</code> at CI&T company.
+🏠 I'm currently working remotely as a <code>Software Engineer</code> at X-Team company.
 
 ## Languages and technologies I'm daily working with
 
