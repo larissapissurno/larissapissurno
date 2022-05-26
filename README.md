@@ -4,7 +4,7 @@
 
 ### Hi there, I'm Larissa 👋
  
-_Frontend Engineer at [CI&T](https://ciandt.com/)_
+_Software Engineer at [X-Team](https://x-team.com/)_
 
 You can found at:
 
@@ -14,7 +14,7 @@ You can found at:
 ## About me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 :woman_technologist: Writting code for humans since 2011.<br/>
 
-🗒️ In the first 5 years of my carreer I worked as a Full-stack engineer, but in my last 4 wonderful years I've been focusing on the Front-end side mostly using Angular as framework (but I do like to venture into Back-end once in a while, mainly using NodeJs).
+🗒️ In the first 5 years of my carreer I worked as a Full-stack engineer, but in my last 4+ wonderful years I've been focusing on the Front-end side mostly using Angular as framework (but I do like to venture into Back-end once in a while, mainly using NodeJs).
 
 🏠 I'm currently working remotely as a <code>Frontend Developer</code> at CI&T company.
 
