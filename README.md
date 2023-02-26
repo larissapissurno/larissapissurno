@@ -14,9 +14,10 @@ You can found at:
 ## About me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 :woman_technologist: Writting code for humans since 2011.<br/>
 
-🗒️ In the first 5 years of my carreer I worked as a Full-stack engineer, but in my last 4+ wonderful years I've been focusing on the Front-end side mostly using Angular as framework (but I do like to venture into Back-end once in a while, mainly using NodeJs).
+🗒️ With more than 10 years of experience working with development, I've always enjoyed doing in-depth studies on the JavaScript stack as well as its TypeScript superset.
+I'm not restricted to frameworks, but I'm mostly working with React at the moment.
 
-🏠 I'm currently working remotely as a <code>Software Engineer</code> at X-Team company.
+🏠 I'm currently working remotely as a <code>Full-Stack Software Engineer (React/Node)</code> at X-Team company.
 
 ## Languages and technologies I'm daily working with
 
