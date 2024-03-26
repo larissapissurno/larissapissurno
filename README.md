@@ -12,7 +12,7 @@ You can found at:
 ![GitHub followers](https://img.shields.io/github/followers/larissapissurno?label=Follow&style=social)
 
 ## About me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-:woman_technologist: Writting code for humans since 2011.<br/>
+:woman_technologist: Writting code for humans since 2012.<br/>
 
 🗒️ With more than 10 years of experience working with development, I've always enjoyed doing in-depth studies on the JavaScript stack as well as its TypeScript superset.
 I'm not restricted to frameworks, but I'm mostly working with React at the moment.
