@@ -11,10 +11,9 @@ You can found at:
 ## About me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 :woman_technologist: Writting code for humans since 2012.<br/>
 
-🗒️ With more than 10 years of experience working with development, I've always enjoyed doing in-depth studies on the JavaScript stack as well as its TypeScript superset.
-I'm not restricted to frameworks, but I'm mostly working with React at the moment.
+🗒️ With over 10 years of experience in development, I have a strong passion for diving deep into the JavaScript ecosystem and its TypeScript superset. My current focus is on building mobile applications with React Native, maintaining server-side functionality with Ruby, and contributing to a web application built with React.
 
-🏠 I'm currently working remotely as a <code>Full-Stack Software Engineer (React/Node)</code> at X-Team company.
+🏠 I'm currently working remotely as a <code>Full-Stack Software Engineer</code> at X-Team company.
 
 ## Languages and technologies I'm daily working with
 
