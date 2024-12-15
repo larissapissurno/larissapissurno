@@ -11,7 +11,7 @@ You can found at:
 ## About me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 :woman_technologist: Writting code for humans since 2012.<br/>
 
-🗒️ With over 12 years of experience in software engineering, I specialize in front-end development with a solid foundation in back-end technologies. Passionate about solving complex problems, I excel in creating clean, efficient, and testable code. My expertise spans modern frameworks, cloud platforms, and agile environments, currently serving as a Full-Stack Developer at X-Team.
+🗒️ With over 12 years of experience in software engineering, I specialize in front-end development with a solid foundation in back-end technologies. Passionate about solving complex problems, I excel in creating clean, efficient, and testable code. My expertise spans modern frameworks, cloud platforms, and agile environments.
 
 🏠 I'm currently working remotely as a <code>Full-Stack Software Engineer</code> at X-Team company.
 
